@@ -1,5 +1,7 @@
 # Login_Register_Golang
 use below query create database 
+
+
 CREATE DATABASE login_example;
 
 USE login_example;
@@ -11,6 +13,9 @@ CREATE TABLE users (
 );
 
 #Go run command | use one of them 
+
 go run ./main.go 
+
 go run ./
+
 go run .
