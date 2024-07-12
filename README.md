@@ -10,3 +10,7 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL
 );
 
+#Go run command | use one of them 
+go run ./main.go 
+go run ./
+go run .
